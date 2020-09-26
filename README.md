@@ -1,3 +1,6 @@
+
 # GitHub and git conflict 
+
+
+>>>>>>> development
 # CSC4111-GitAssignment-
-Nitu Roy, Fx2130@wayne.edu
